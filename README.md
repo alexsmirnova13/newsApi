@@ -13,5 +13,5 @@ Task you can find here [News API RS School task](https://github.com/rolling-scop
 **Score:** 170/170
 ------------
 
-**Deploy:** ---
+**Deploy:** https://alexsmirnova13.github.io/newsApi/
 ------------
